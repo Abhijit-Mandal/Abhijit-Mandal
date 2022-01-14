@@ -27,5 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit-mandal&show_icons=true&locale=en&layout=compact" alt="abhijit-mandal" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhijit-mandal&show_icons=true&locale=en" alt="abhijit-mandal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijit-mandal&show_icons=true&locale=en" alt="abhijit-mandal" /></p>
 
