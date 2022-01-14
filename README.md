@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mandal</h1>
 <h3 align="center">I’m an enthusiastic coder and a passionate learner.</h3>
-<img align="right" alt="GIF" src="https://i.imgur.com/LEvCu3ll.gif?raw=true" width="450" height="350" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" width="450" height="330" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-mandal" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning and DevOps**                               
