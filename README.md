@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mandal</h1>
 <h3 align="center">I’m an enthusiastic coder and a passionate learner.</h3>
-
+<img align="right" alt="GIF" src="https://i.imgur.com/LEvCu3ll.gif?raw=true" width="450" height="350" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-mandal" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and DevOps**
+- 🔭 I’m currently working on **Machine Learning and DevOps**                               
 
 - 🌱 I’m currently learning **Flask, HTML and CSS**
 
 - 📫 How to reach me **abhijit.mandal777@gmail.com**
 
-- 📄 Know about my experiences [https://abhijit-mandal.github.io/resume/](https://abhijit-mandal.github.io/resume/)
+- 📄 Know about my experiences [https://abhijit-mandal.github.io/resume/](https://abhijit-mandal.github.io/resume/) !
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
